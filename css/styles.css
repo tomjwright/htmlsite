@@ -15,10 +15,8 @@ h3 {
     color: #FEBE8C;
 }
 
-img {
-    background-color: blue;
-    height: 75px;
-    width: 75px;
+img:hover {
+    background-color: white;
 }
 
 /*********************CLASS SELECTORS - OVERRIDES TAGS***************/
@@ -28,6 +26,11 @@ img {
     background-color: red;
     height: 75px;
     width: 75px;
+}
+
+.python {
+    height: 75px;
+    width: 75px; 
 }
 
 .profilepic {
