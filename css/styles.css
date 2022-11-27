@@ -16,7 +16,7 @@ h3 {
 }
 
 img:hover {
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 /*********************CLASS SELECTORS - OVERRIDES TAGS***************/
@@ -33,7 +33,7 @@ img:hover {
     width: 75px; 
 }
 
-.profilepic {
+.profilepic:hover {
     background-color: transparent;
     height: auto;
     width: auto;
